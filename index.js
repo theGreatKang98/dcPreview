@@ -48,5 +48,3 @@ lists.forEach(list => {
         timer.resetTimer();
     });
 })
-
-clear() 
